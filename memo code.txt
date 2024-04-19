@@ -1,0 +1,24 @@
+
+"Fiche de Révision Rapide : Raccourcis et Définitions en Développement Web"
+
+
+Br : <br> - Retour à la ligne
+
+P : <p> - Paragraphe
+
+Hr : <hr> - Ligne le longue de la page
+
+Ul : <ul> - Liste à puces
+
+Ol : <ol> - Liste numérotée
+
+A : <a> - Lien cliquable
+
+Img : <img> - Insère une image
+
+target="_blank" : Ouvre le lien dans une autre fenêtre
+Em : <em> - Met le mot en italique pour indiquer une emphase
+
+Strong : <strong> - Met le mot en gras pour indiquer son importance au navigateur
+
+Ctral + / : Pour commenter sont code 
